@@ -1,0 +1,174 @@
+img {
+    border: solid;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-family: 'Montserrat', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+    color: #94B49F;
+    text-align: center;
+}
+h2 {
+    font-family: 'Montserrat', serif;
+    font-size: 32px;
+    color: #ECB390;
+    text-align: center;
+}
+
+h3 {
+    font-family: comic sans-serif, serif;
+    font-size: 24px;
+    color: #DF7861;
+    text-align: center;
+}
+div.top {
+    background-color: white;
+    padding-bottom: 10px;
+}
+div.middle {
+    background-color: white;
+    padding-bottom: 3px;
+}
+div.bottom {
+    background-color: #FCF8E8;
+    box-shadow: 2px 2px 10px 12px#DF7861;
+}
+a {
+    color: #94B49F;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ECB390;
+}
+button {
+    font-family: 'Montserrat', comic sans-serif, serif;
+    font-size: 14px;
+    text-align: center;
+    color: #94B49F;
+    background-color: #FCF8E8;
+}
+button:hover {
+    background-color: #ECB390;
+    transition: 0.7s;
+}
+hr {
+    border: 0; 
+    height: 1px; 
+    background-image: linear-gradient(to right, #FCF8E8, #94B49F, #ECB390, #DF7861);
+
+}
+img.headshot {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: none;
+
+}
+img.city {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border: none;
+}
+img.pc {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    margin: 0px;
+    border: none;
+    padding: 10px;
+}
+img.cloud9 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 1000px;
+    top: 0px;
+    margin: 0px;
+    border: none;
+    padding: 10px;
+}
+div.lang {
+    float: right;
+}
+img.book {
+    width: 100px;
+}
+div.book {
+    float: left;
+}
+
+div.copyright {
+    text-align: center;
+}
+
+img.leader {
+    width: 100px;
+}
+img.skills {
+    width: 100px;
+    float: left;
+}
+
+p {
+    text-align: center;
+    margin: 20px;
+}
+
+#div1 {
+    width: 30%;
+    float: left;
+    padding-left: 20%;
+}
+
+#div2 {
+    width: 50%;
+    float: right;
+}
+
+#div3 {
+    width: 30%;
+    float: left;
+    padding-left: 20%;
+}
+
+#div4 {
+    width: 50%;
+    float: right;
+}
+
+#div5 {
+    width: 30%;
+    float: left;
+    padding-left: 20%;
+}
+
+#div6 {
+    width: 50%;
+    float: right;
+}
+
+#center {
+    width: 11%;
+  
+}
+
+#div7 {
+    width: 20%;
+    float: left;
+    padding-left: 30%;
+}
+
+#div8 {
+    width: 50%;
+    float: right;
+}
